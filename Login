@@ -1,4 +1,5 @@
-if(Login=="True")
+if(Login=="True" && IsActive == "True")
 printf("Valid user")
 else
 printf("InValid User")
+
